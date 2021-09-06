@@ -3,8 +3,8 @@
 }
 
 body {
-    width: 90vw;
-    height: 90vh;
+    width: 90%;
+    height: 90%;
     margin: 0;
     padding: 0;
     background: linear-gradient(#95bbd8, #fff, #fff);
@@ -86,17 +86,17 @@ button:hover {
 
 @media screen and (min-width: 360px) and (max-width: 780px) {
     body {
-    width: 90vw;
-    height: 90vh;
+    width: 90%;
+    height: 90%;
     margin: 0;
-    padding: 10px;
+    padding: 30px;
     background: linear-gradient(#95bbd8, #fff, #fff);
     color: #000;
     font-family: sans-serif;
 }
     form {
-        width: 90vw;
-        height: 90vh;
+        width: 85%;
+        height: 90%;
     }
     input {
         padding:1rem;
